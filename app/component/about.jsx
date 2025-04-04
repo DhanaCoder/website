@@ -31,10 +31,10 @@ const About = () => {
               technology. Founded with a vision to eliminate digital noise and
               streamline workflows, Zero.com offers tools and solutions designed
               to reduce complexity, enhance productivity, and unlock potential.
-              Whether you're a startup, enterprise, or individual creator, we’re
+              Whether youare a startup, enterprise, or individual creator, weare
               here to help you focus on what truly matters—zero distractions,
-              maximum impact. At Zero.com, we're not just building
-              products—we're designing a movement toward clarity, efficiency,
+              maximum impact. At Zero.com, weare not just building
+              products—weare designing a movement toward clarity, efficiency,
               and purpose-driven progress.
             </p>
           </div>
