@@ -24,9 +24,18 @@ const About = () => {
               About <span className="text-indigo-600">Our Company</span>
             </h2>
             <p className="text-gray-700">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid,
-              commodi doloremque, fugiat illum magni minus nisi nulla numquam
-              obcaecati placeat quia, repellat tempore voluptatum.
+              Zero.com is a forward-thinking organization dedicated to building
+              seamless digital experiences that empower individuals and
+              businesses to do more with less. We believe in simplicity,
+              innovation, and creating value through smart, intuitive
+              technology. Founded with a vision to eliminate digital noise and
+              streamline workflows, Zero.com offers tools and solutions designed
+              to reduce complexity, enhance productivity, and unlock potential.
+              Whether you're a startup, enterprise, or individual creator, we’re
+              here to help you focus on what truly matters—zero distractions,
+              maximum impact. At Zero.com, we're not just building
+              products—we're designing a movement toward clarity, efficiency,
+              and purpose-driven progress.
             </p>
           </div>
         </div>

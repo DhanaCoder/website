@@ -16,7 +16,7 @@ const Navbar = () => {
             <button>
               <div className="flex items-center space-x-2">
                 <h2 className="text-black dark:text-white font-bold text-2xl">
-                  MuuDev
+                  Zero.com
                 </h2>
               </div>
             </button>
@@ -55,7 +55,7 @@ const Navbar = () => {
                 <a href="/">Home</a>
               </li>
               <li className="hover:underline hover:underline-offset-4 hover:w-fit transition-all duration-100 ease-linear">
-                <a href="#">Our services</a>
+                <a href="/pages/service">Our services</a>
               </li>
               <li className="hover:underline hover:underline-offset-4 hover:w-fit transition-all duration-100 ease-linear">
                 <a href="#">About</a>

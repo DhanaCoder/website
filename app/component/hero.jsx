@@ -78,10 +78,10 @@ const Hero = () => {
             <h1 className="hero-heading mt-10 text-5xl font-bold tracking-tight text-white sm:text-6xl">
               revolutionize
               <span className="text-sky-500">your smartwork</span> with
-              <span className="text-sky-500">MuuDev</span>
+              <span className="text-sky-500">Zero</span>
             </h1>
             <p className="hero-subheading mt-6 text-lg leading-8 text-gray-300">
-              Elevate Your Productivity With MuuDev, Your Personalized software
+              Elevate Your Productivity With Zero, Your Personalized software
               Company Assistant
             </p>
             <div className="mt-5 flex items-center justify-center gap-x-6">

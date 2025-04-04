@@ -43,7 +43,7 @@ const footer = () => {
                           fontWeight="bold"
                         >
                           <tspan x="654" y="518">
-                            MuuDev
+                            Zero.com
                           </tspan>
                         </text>
                       </g>
@@ -51,14 +51,16 @@ const footer = () => {
                   </svg>
                 </a>
                 <p className="text-justify">
-                  MuuDev is one reputation software copnay that will cathc the boundrieds of the requermment and tries to satisfy the Client asap.
+                  Zero.com is one reputation software company that will catch
+                  the boundries of the requerment and tries to satisfy the
+                  Client asap.
                 </p>
               </div>
 
               <div className="px-4 my-4 w-full sm:w-auto">
                 <div>
                   <h2 className="inline-block text-2xl pb-4 mb-4 border-b-4 border-blue-600">
-                    MuuDev
+                    Zero.com
                   </h2>
                 </div>
                 <ul className="leading-8">
@@ -103,7 +105,7 @@ const footer = () => {
                   </li>
                   <li>
                     <a href="#" className="hover:text-blue-400">
-                      How MuuDev Can Help Your Productivity?
+                      How Zero.com Can Help Your Productivity?
                     </a>
                   </li>
                   <li>
@@ -184,6 +186,14 @@ const footer = () => {
                     <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path>
                   </svg>
                 </a>
+                <div>
+                  <h2 className="inline-block text-s pb-4 mb-4 hover:text-red-500">
+                    contact: +91 9014272676
+                  </h2>
+                  <h2 className="inline-block text-s pb-4 mb-4 hover:text-red-500">
+                    email: zerosoftech2022@gmail.com
+                  </h2>
+                </div>
               </div>
             </div>
           </div>
@@ -192,10 +202,10 @@ const footer = () => {
           <div className="container mx-auto px-4">
             <div className="-mx-4 flex flex-wrap justify-between">
               <div className="px-4 w-full text-center sm:w-auto sm:text-left">
-                MuuDev. All Rights Reserved.
+                Zero.com. All Rights Reserved.
               </div>
               <div className="px-4 w-full text-center sm:w-auto sm:text-left">
-                Made with ❤️ by MuuDev.
+                Made with ❤️ by Zero.com.
               </div>
             </div>
           </div>
